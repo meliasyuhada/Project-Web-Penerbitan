@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Lanjut Membaca_ui centered fluid image</name>
+   <tag></tag>
+   <elementGuidId>77d09602-3b95-4f09-8e59-00be5ca68852</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.ui.centered.fluid.image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/span/div/div[5]/div[2]/div/div/div/div/div[2]/div/div/div/a/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2d12d4ef-5cb5-4a39-9c2f-03e673bcaddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.storial.co/book_front/31562-3aa51df6a105df87cf593ecda4cd73ec14da3dfa.jpeg</value>
+      <webElementGuid>45ceaa19-191d-4381-bb82-5679395c7b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui centered fluid image</value>
+      <webElementGuid>9e75ca4e-3798-4fea-98f8-8cc20ceed0e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/span[1]/div[@class=&quot;page-appear page-appear-active&quot;]/div[@class=&quot;hwq502-0 jdwAva&quot;]/div[@class=&quot;page-item&quot;]/div[@class=&quot;page-inner&quot;]/div[1]/div[@class=&quot;ui container&quot;]/div[1]/div[@class=&quot;ui grid storial-listing&quot;]/div[@class=&quot;six column row&quot;]/div[@class=&quot;column&quot;]/div[@class=&quot;ui centered card book-card&quot;]/a[1]/div[@class=&quot;sc-191ii5r-2 dLiZYy&quot;]/img[@class=&quot;ui centered fluid image&quot;]</value>
+      <webElementGuid>b923d629-ca5d-4daf-b1a9-e8bf450a31cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/span/div/div[5]/div[2]/div/div/div/div/div[2]/div/div/div/a/div/img</value>
+      <webElementGuid>02b3ba24-859f-4da3-b91b-86bb830f5dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://cdn.storial.co/book_front/31562-3aa51df6a105df87cf593ecda4cd73ec14da3dfa.jpeg')]</value>
+      <webElementGuid>748514e6-8130-4df3-b51d-9682900cd464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a/div/img</value>
+      <webElementGuid>1d791ef9-3899-4b36-a839-cbbfa8f4d3aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.storial.co/book_front/31562-3aa51df6a105df87cf593ecda4cd73ec14da3dfa.jpeg']</value>
+      <webElementGuid>b94f3f3b-96c9-4726-9620-334c57b6e24a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

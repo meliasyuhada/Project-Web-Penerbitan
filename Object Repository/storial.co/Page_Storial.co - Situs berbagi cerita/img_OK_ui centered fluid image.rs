@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_OK_ui centered fluid image</name>
+   <tag></tag>
+   <elementGuidId>fe0690ab-ee95-4917-8500-7c6cb26ffff3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.ui.centered.fluid.image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/span/div/div[4]/div/div/div[2]/div/div/div/div/div/div/a/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>489aeac4-c0b8-46e6-ada0-167eac94c02e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.storial.co/book_front/31562-3aa51df6a105df87cf593ecda4cd73ec14da3dfa.jpeg</value>
+      <webElementGuid>aa4b6f74-a8c0-4939-b2ad-c380a4ba7ca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui centered fluid image</value>
+      <webElementGuid>1a538f79-d1dd-45c1-8028-bb6a40307c43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/span[1]/div[@class=&quot;mryv-0 egIBm&quot;]/div[4]/div[@class=&quot;zmizm3-0 ckyoxs&quot;]/div[@class=&quot;reaxm0-0 jcasxG&quot;]/div[2]/div[@class=&quot;ui container&quot;]/div[1]/div[@class=&quot;ui grid storial-listing&quot;]/div[@class=&quot;five column row&quot;]/div[@class=&quot;column&quot;]/div[@class=&quot;ui centered card book-card&quot;]/a[1]/div[@class=&quot;n4rqeu-2 duEOuz&quot;]/img[@class=&quot;ui centered fluid image&quot;]</value>
+      <webElementGuid>45c8c067-4e71-4d95-93fd-66415ee38564</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/span/div/div[4]/div/div/div[2]/div/div/div/div/div/div/a/div/img</value>
+      <webElementGuid>430f8eb6-966c-4370-ac8e-ad23cdc86ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://cdn.storial.co/book_front/31562-3aa51df6a105df87cf593ecda4cd73ec14da3dfa.jpeg')]</value>
+      <webElementGuid>98defe2d-448c-4fa7-91c7-b0419e02f952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>bfef37a8-1830-4bc6-a8bd-317f7c0e6761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.storial.co/book_front/31562-3aa51df6a105df87cf593ecda4cd73ec14da3dfa.jpeg']</value>
+      <webElementGuid>03bf8ce2-cfc0-4010-8c0b-49666ec8adf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

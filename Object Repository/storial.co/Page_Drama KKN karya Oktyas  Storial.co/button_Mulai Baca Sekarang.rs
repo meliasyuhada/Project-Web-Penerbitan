@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Mulai Baca Sekarang</name>
+   <tag></tag>
+   <elementGuidId>62656cf1-25da-4f87-b2e4-1de86c9bab80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.kfg2r0-0.kKqApY</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/span/div/div[4]/div/div/div[2]/div/div/div/div[2]/div/div/div/div/div[2]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>481e5857-45f2-4542-8a65-6aea43abebe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kfg2r0-0 kKqApY</value>
+      <webElementGuid>1a4f9438-d7ca-4741-b8e0-c7f850cc34be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mulai Baca Sekarang!</value>
+      <webElementGuid>3cc5cd6d-f0c1-4f77-bcbc-d6e739517e63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/span[1]/div[@class=&quot;mryv-0 egIBm&quot;]/div[4]/div[1]/div[1]/div[@class=&quot;ui container&quot;]/div[@class=&quot;sc-1qpex9v-0 dAeHpv&quot;]/div[@class=&quot;ui container doubling stackable two column grid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;twelve wide column&quot;]/div[@class=&quot;ui stackable two column grid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;eleven wide column&quot;]/div[1]/div[@class=&quot;ui two column grid&quot;]/div[@class=&quot;fourteen wide column&quot;]/div[1]/button[@class=&quot;kfg2r0-0 kKqApY&quot;]</value>
+      <webElementGuid>1e5c411b-c36e-4166-be1b-40e7af85e288</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/span/div/div[4]/div/div/div[2]/div/div/div/div[2]/div/div/div/div/div[2]/div/div/button</value>
+      <webElementGuid>6184710a-6945-4443-a88b-c2e2a8a25017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Umum'])[1]/following::button[1]</value>
+      <webElementGuid>2f63d929-d032-40e6-b0e7-847838ad5f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oktyas'])[1]/following::button[1]</value>
+      <webElementGuid>b14f5d1c-b7e4-4372-8f64-be260a8f4421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mulai Baca Sekarang!']/parent::*</value>
+      <webElementGuid>bcfb3140-85bd-4b06-a675-061c50a2d2a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>c7bc66b5-33e6-47a9-8212-d218f16ffe7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Mulai Baca Sekarang!' or . = 'Mulai Baca Sekarang!')]</value>
+      <webElementGuid>39cce7ab-1bb8-42b9-9bc3-a135706ad3f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

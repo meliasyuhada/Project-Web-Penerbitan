@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Lihat lebih banyak komentar_bars icon</name>
+   <tag></tag>
+   <elementGuidId>20aa8c6e-761a-44cb-89e8-07aff1d0eb57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bars.icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='app']/span/div/div/div[2]/div[3]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2ce25b9f-681c-43a9-8463-16b18eca020d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>312331f4-3e7b-4614-b443-5ed89d48bb67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bars icon</value>
+      <webElementGuid>ab625e71-bcf9-4a94-9b59-5cac426555c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/span[1]/div[1]/div[1]/div[@class=&quot;sc-3hwyi0-0 jMuZaJ&quot;]/div[@class=&quot;sc-1u63afs-0 dYhmkZ&quot;]/div[@class=&quot;ui large compact fluid icon four item menu-footer menu&quot;]/a[@class=&quot;item no-background-color&quot;]/i[@class=&quot;bars icon&quot;]</value>
+      <webElementGuid>d68ca737-1aa3-463c-b595-04bc2662ba0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='app']/span/div/div/div[2]/div[3]/div/a/i</value>
+      <webElementGuid>ad676e44-1cf1-45bf-92ef-727508f96e14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/i</value>
+      <webElementGuid>f67370cf-5ebb-486b-a6e6-2cc4e6849adf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
